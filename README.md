@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header-wave.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-pixel-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/name-pixel-light.svg" />
+  <img src="assets/name-pixel-dark.svg" alt="HADRYAN89" width="100%" />
+</picture>
 
 <h1>Hadryan Fortinis</h1>
 
