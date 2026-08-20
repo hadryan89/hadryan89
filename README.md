@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=160&amp;section=header" alt="" width="100%" />
+<img src="assets/header-wave.svg" alt="" width="100%" />
 
 <h1>Hadryan Fortinis</h1>
 
