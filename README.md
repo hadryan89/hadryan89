@@ -88,7 +88,7 @@ Na prática, isso significa estudar:
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=hadryan89&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadryan89&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br/><br/>
 
