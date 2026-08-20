@@ -134,9 +134,6 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Estatisticas do GitHub de Hadryan" />
 <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Linguagens mais usadas" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadryan89&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Grafico de atividade de contribuicoes" width="100%" />
 
 <br/><br/>
 
