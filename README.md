@@ -22,19 +22,15 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou o **Hadryan Fortinis**, estudante de **Sistemas Inteligentes na FATEC Pompeia** e desenvolvedor apaixonado por transformar dados em soluções reais.
+Sou o **Hadryan Fortinis**, estudante de **Sistemas Inteligentes na FATEC Pompeia**.
 
-Meu trabalho vive na fronteira entre o **desenvolvimento full stack** e a **inteligência artificial**: construo aplicações web modernas com Angular, React, TypeScript e Node.js, ao mesmo tempo em que exploro o universo de redes neurais, visão computacional e modelos de linguagem.
+Trabalho entre o **desenvolvimento full stack** e a **inteligência artificial**: construo aplicações web com Angular, TypeScript e Node.js e estudo redes neurais, visão computacional e modelos de linguagem. Como **bolsista de Iniciação Científica da FAPESP**, aplico as duas frentes na pesquisa de **IA no agronegócio**.
 
-Como **bolsista de Iniciação Científica da FAPESP**, aplico essas duas frentes na pesquisa de **IA no agronegócio** — usando **computação em nuvem** para processar dados agrícolas em escala e modelos de visão computacional para extrair informação útil do campo.
-
-- 🎓 Cursando **Sistemas Inteligentes** — FATEC Pompeia
-- 🔬 **Bolsista de Iniciação Científica FAPESP** — pesquisa em **IA aplicada ao agronegócio**
-- ☁️ Construindo pipelines em **cloud** (AWS / GCP / Azure) para treino, deploy e processamento de dados
-- 💻 Atuando com **JavaScript/TypeScript, Python, Angular, React, Node.js e bancos SQL/NoSQL**
-- 🐳 Trabalhando com **Docker** para ambientes reproduzíveis e deploys consistentes
-- 🌱 Aprofundando estudos em **Machine Learning aplicado a imagens**
-- 🤝 Aberto a colaborações, projetos open source e boas conversas sobre tecnologia
+- 🔬 **Bolsista de IC FAPESP** — IA aplicada ao agronegócio
+- ☁️ Pipelines em **cloud** (AWS / GCP / Azure) para treino, deploy e processamento de dados
+- 💻 **JavaScript/TypeScript, Python, Angular, Node.js, SQL/NoSQL** e **Docker**
+- 🌱 Estudando **Machine Learning aplicado a imagens**
+- 🤝 Aberto a colaborações e projetos open source
 
 <br/>
 
