@@ -131,12 +131,12 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Estatisticas do GitHub de Hadryan" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Linguagens mais usadas" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Estatisticas do GitHub de Hadryan" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Linguagens mais usadas" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadryan89&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR&amp;disable_animations=true" alt="Sequencia de contribuicoes" />
+<img src="https://streak-stats.demolab.com/?user=hadryan89&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR&amp;disable_animations=true" alt="Sequencia de contribuicoes" />
 
 <br/><br/>
 
