@@ -136,7 +136,7 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=hadryan89&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR&amp;disable_animations=true" alt="Sequencia de contribuicoes" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadryan89&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Grafico de atividade de contribuicoes" width="100%" />
 
 <br/><br/>
 
