@@ -59,10 +59,10 @@ Na prática, isso significa estudar:
 <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&amp;theme=dark" alt="Front-end" />
 
 ### Back-end &amp; Dados
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,supabase&amp;theme=dark" alt="Back-end e Dados" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&amp;theme=dark" alt="Back-end e Dados" />
 
 ### DevOps &amp; Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&amp;theme=dark" alt="DevOps e Ferramentas" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&amp;theme=dark" alt="DevOps e Ferramentas" />
 
 </div>
 
@@ -78,11 +78,14 @@ Na prática, isso significa estudar:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
