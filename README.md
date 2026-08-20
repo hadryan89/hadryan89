@@ -82,6 +82,7 @@ Na prática, isso significa estudar:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -141,8 +142,8 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Estatisticas do GitHub de Hadryan" />
-<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true" alt="Linguagens mais usadas" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true&amp;cache_seconds=1800" alt="Estatisticas do GitHub de Hadryan" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true&amp;cache_seconds=1800" alt="Linguagens mais usadas" />
 
 
 <br/><br/>
