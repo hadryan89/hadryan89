@@ -3,10 +3,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/name-pixel-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/name-pixel-light.svg" />
-  <img src="assets/name-pixel-dark.svg" alt="HADRYAN89" width="100%" />
+  <img src="assets/name-pixel-dark.svg" alt="HADRYAN89" width="657" />
 </picture>
-
-<h1>Hadryan Fortinis</h1>
 
 <h3>Sistemas Inteligentes &nbsp;|&nbsp; IA &amp; Desenvolvimento Full Stack</h3>
 
