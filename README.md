@@ -6,11 +6,12 @@
   <img src="assets/name-pixel-dark.svg" alt="HADRYAN89" width="657" />
 </picture>
 
-<h3>Sistemas Inteligentes &nbsp;|&nbsp; IA &amp; Desenvolvimento Full Stack</h3>
+<h3>Sistemas Inteligentes &nbsp;|&nbsp; IA no Agronegócio &nbsp;|&nbsp; Full Stack &amp; Cloud</h3>
 
 <p>
   <b>Estudante de Sistemas Inteligentes na FATEC Pompeia</b><br/>
-  Desenvolvedor Full Stack &nbsp;·&nbsp; Explorando Visão Computacional e LLMs
+  <b>Bolsista de Iniciação Científica FAPESP</b> &nbsp;·&nbsp; IA aplicada ao Agronegócio<br/>
+  Desenvolvedor Full Stack &nbsp;·&nbsp; Explorando Visão Computacional, LLMs e Cloud
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=hadryan89&amp;label=Visitantes%20do%20perfil&amp;color=0e75b6&amp;style=flat-square" alt="contador de visitas" />
@@ -25,11 +26,40 @@ Olá! Sou o **Hadryan Fortinis**, estudante de **Sistemas Inteligentes na FATEC 
 
 Meu trabalho vive na fronteira entre o **desenvolvimento full stack** e a **inteligência artificial**: construo aplicações web modernas com Angular, React, TypeScript e Node.js, ao mesmo tempo em que exploro o universo de redes neurais, visão computacional e modelos de linguagem.
 
+Como **bolsista de Iniciação Científica da FAPESP**, aplico essas duas frentes na pesquisa de **IA no agronegócio** — usando **computação em nuvem** para processar dados agrícolas em escala e modelos de visão computacional para extrair informação útil do campo.
+
 - 🎓 Cursando **Sistemas Inteligentes** — FATEC Pompeia
+- 🔬 **Bolsista de Iniciação Científica FAPESP** — pesquisa em **IA aplicada ao agronegócio**
+- ☁️ Construindo pipelines em **cloud** (AWS / GCP / Azure) para treino, deploy e processamento de dados
 - 💻 Atuando com **JavaScript/TypeScript, Python, Angular, React, Node.js e bancos SQL/NoSQL**
 - 🐳 Trabalhando com **Docker** para ambientes reproduzíveis e deploys consistentes
 - 🌱 Aprofundando estudos em **Machine Learning aplicado a imagens**
 - 🤝 Aberto a colaborações, projetos open source e boas conversas sobre tecnologia
+
+<br/>
+
+### 🔬 Iniciação Científica — FAPESP
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FAPESP-Bolsista%20de%20Inicia%C3%A7%C3%A3o%20Cient%C3%ADfica-0072B5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Bolsista FAPESP" />
+<img src="https://img.shields.io/badge/FATEC%20Pompeia-Sistemas%20Inteligentes-B20000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="FATEC Pompeia" />
+
+</div>
+
+<br/>
+
+> Atuo como **bolsista de Iniciação Científica da FAPESP**, pesquisando o uso de **inteligência artificial e computação em nuvem aplicadas ao agronegócio**.
+
+Frentes da pesquisa:
+
+| Frente | O que envolve |
+| :--- | :--- |
+| 🛰️ **Visão computacional no campo** | Processamento de imagens agrícolas (drone, satélite e câmera) para análise de cultivos |
+| 🌱 **Agricultura de precisão** | Modelos para identificação de padrões, anomalias e indicadores de saúde das lavouras |
+| ☁️ **Infraestrutura em nuvem** | Treino, versionamento e deploy dos modelos em ambientes cloud escaláveis |
+| 📊 **Dados agrícolas** | Coleta, limpeza e organização de datasets do agronegócio para alimentar os modelos |
+| 🤖 **IA generativa & LLMs** | Uso de modelos de linguagem como camada de interpretação e apoio à decisão no campo |
 
 ---
 
@@ -64,6 +94,9 @@ Na prática, isso significa estudar:
 ### DevOps &amp; Ferramentas
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&amp;theme=dark" alt="DevOps e Ferramentas" />
 
+### Cloud &amp; Infraestrutura
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,linux,cloudflare&amp;theme=dark" alt="Cloud e Infraestrutura" />
+
 </div>
 
 <br/>
@@ -88,6 +121,12 @@ Na prática, isso significa estudar:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -135,6 +174,26 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 | **Matplotlib** | Visualização das amostras aumentadas e das curvas de treinamento |
 | **Jupyter / Anaconda** | Ambiente de experimentação e controle de dependências |
 | **Hugging Face** | Modelos pré-treinados e pipelines multimodais aplicados a LLMs |
+
+<br/>
+
+### 🌾 Stack de IA aplicada ao agronegócio
+
+Ferramentas que uso na pesquisa de **dados agrícolas e imagens de campo**:
+
+<div align="center">
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL%20%2F%20Rasterio-5CAE58?style=for-the-badge&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
