@@ -136,7 +136,7 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadryan89&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR" alt="Sequencia de contribuicoes" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadryan89&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR&amp;disable_animations=true" alt="Sequencia de contribuicoes" />
 
 <br/><br/>
 
