@@ -175,6 +175,10 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 *"A melhor forma de prever o futuro é construí-lo — uma linha de código por vez."*
 
-<img src="assets/contrib-grid.svg" alt="Grade de contribuicoes totalmente preenchida" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/contrib-grid-light.svg" />
+  <img src="assets/contrib-grid-dark.svg" alt="Grade de contribuicoes" width="100%" />
+</picture>
 
 </div>
