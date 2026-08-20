@@ -23,10 +23,10 @@
 
 Olá! Sou o **Hadryan Fortinis**, estudante de **Sistemas Inteligentes na FATEC Pompeia** e desenvolvedor apaixonado por transformar dados em soluções reais.
 
-Meu trabalho vive na fronteira entre o **desenvolvimento full stack** e a **inteligência artificial**: construo aplicações web modernas com Angular, TypeScript e Node.js, ao mesmo tempo em que exploro o universo de redes neurais, visão computacional e modelos de linguagem.
+Meu trabalho vive na fronteira entre o **desenvolvimento full stack** e a **inteligência artificial**: construo aplicações web modernas com Angular, React, TypeScript e Node.js, ao mesmo tempo em que exploro o universo de redes neurais, visão computacional e modelos de linguagem.
 
 - 🎓 Cursando **Sistemas Inteligentes** — FATEC Pompeia
-- 💻 Atuando com **JavaScript/TypeScript, Python, Angular, Node.js e bancos SQL/NoSQL**
+- 💻 Atuando com **JavaScript/TypeScript, Python, Angular, React, Node.js e bancos SQL/NoSQL**
 - 🐳 Trabalhando com **Docker** para ambientes reproduzíveis e deploys consistentes
 - 🌱 Aprofundando estudos em **Machine Learning aplicado a imagens**
 - 🤝 Aberto a colaborações, projetos open source e boas conversas sobre tecnologia
@@ -56,10 +56,10 @@ Na prática, isso significa estudar:
 <img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark" alt="Linguagens" />
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=angular,html,css&amp;theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&amp;theme=dark" alt="Front-end" />
 
 ### Back-end &amp; Dados
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&amp;theme=dark" alt="Back-end e Dados" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,supabase&amp;theme=dark" alt="Back-end e Dados" />
 
 ### DevOps &amp; Ferramentas
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&amp;theme=dark" alt="DevOps e Ferramentas" />
@@ -74,10 +74,15 @@ Na prática, isso significa estudar:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
