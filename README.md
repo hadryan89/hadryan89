@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=200&amp;section=header&amp;text=Hadryan%20Fortinis&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Sistemas%20Inteligentes%20%7C%20IA%20%26amp%3B%20Desenvolvimento%20Full%20Stack&amp;descAlignY=55&amp;descSize=18" alt="Hadryan Fortinis" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=160&amp;section=header" alt="" width="100%" />
 
-<a href="https://www.linkedin.com/in/hadryan-fortinis-9b990538a">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=800&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Estudante+de+Sistemas+Inteligentes+na+FATEC+Pompeia;Desenvolvedor+Full+Stack;Explorando+Vis%C3%A3o+Computacional+e+LLMs" alt="Typing SVG" />
-</a>
+<h1>Hadryan Fortinis</h1>
 
-<br/>
+<h3>Sistemas Inteligentes &nbsp;|&nbsp; IA &amp; Desenvolvimento Full Stack</h3>
+
+<p>
+  <b>Estudante de Sistemas Inteligentes na FATEC Pompeia</b><br/>
+  Desenvolvedor Full Stack &nbsp;·&nbsp; Explorando Visão Computacional e LLMs
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=hadryan89&amp;label=Visitantes%20do%20perfil&amp;color=0e75b6&amp;style=flat-square" alt="contador de visitas" />
 
