@@ -83,16 +83,16 @@ Na prática, isso significa estudar:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hadryan89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Hadryan" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadryan89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Hadryan" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadryan89&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com/?user=hadryan89&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hadryan89&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus do GitHub" />
+<img src="https://github-trophies.vercel.app/?username=hadryan89&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus do GitHub" />
 
 </div>
 
