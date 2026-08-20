@@ -178,6 +178,6 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 *"A melhor forma de prever o futuro é construí-lo — uma linha de código por vez."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=120&amp;section=footer" alt="rodape" width="100%" />
+<img src="assets/contrib-grid.svg" alt="Grade de contribuicoes totalmente preenchida" width="100%" />
 
 </div>
