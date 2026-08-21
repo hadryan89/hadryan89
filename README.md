@@ -6,92 +6,92 @@
   <img src="assets/name-pixel-dark.svg" alt="HADRYAN89" width="657" />
 </picture>
 
-<h3>Sistemas Inteligentes &nbsp;|&nbsp; IA no Agronegócio &nbsp;|&nbsp; Full Stack &amp; Cloud</h3>
+<h3>Intelligent Systems &nbsp;|&nbsp; AI in Agribusiness &nbsp;|&nbsp; Full Stack &amp; Cloud</h3>
 
 <p>
-  <b>Estudante de Sistemas Inteligentes na FATEC Pompeia</b><br/>
-  <b>Bolsista de Iniciação Científica FAPESP</b> &nbsp;·&nbsp; IA aplicada ao Agronegócio<br/>
-  Desenvolvedor Full Stack &nbsp;·&nbsp; Explorando Visão Computacional, LLMs e Cloud
+  <b>Intelligent Systems student at FATEC Pompeia</b><br/>
+  <b>FAPESP Undergraduate Research Fellow</b> &nbsp;·&nbsp; AI applied to Agribusiness<br/>
+  Full Stack Developer &nbsp;·&nbsp; Exploring Computer Vision, LLMs and Cloud
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=hadryan89&amp;label=Visitantes%20do%20perfil&amp;color=0e75b6&amp;style=flat-square" alt="contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=hadryan89&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat-square" alt="profile views counter" />
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 👋 About me
 
-Sou o **Hadryan Fortinis**, estudante de **Sistemas Inteligentes na FATEC Pompeia**.
+I'm **Hadryan Fortinis**, an **Intelligent Systems** student at **FATEC Pompeia**.
 
-Trabalho entre o **desenvolvimento full stack** e a **inteligência artificial**: construo aplicações web com Angular, TypeScript e Node.js e estudo redes neurais, visão computacional e modelos de linguagem. Como **bolsista de Iniciação Científica da FAPESP**, aplico as duas frentes na pesquisa de **IA no agronegócio**.
+I work at the intersection of **full stack development** and **artificial intelligence**: I build web applications with Angular, TypeScript and Node.js while studying neural networks, computer vision and language models. As a **FAPESP undergraduate research fellow**, I bring both fronts together in my research on **AI for agribusiness**.
 
-- 🔬 **Bolsista de IC FAPESP** — IA aplicada ao agronegócio
-- ☁️ Pipelines em **cloud** (AWS / GCP / Azure) para treino, deploy e processamento de dados
-- 💻 **JavaScript/TypeScript, Python, Angular, Node.js, SQL/NoSQL** e **Docker**
-- 🌱 Estudando **Machine Learning aplicado a imagens**
-- 🤝 Aberto a colaborações e projetos open source
+- 🔬 **FAPESP research fellow** — AI applied to agribusiness
+- ☁️ **Cloud** pipelines (AWS / GCP / Azure) for training, deployment and data processing
+- 💻 **JavaScript/TypeScript, Python, Angular, Node.js, SQL/NoSQL** and **Docker**
+- 🌱 Studying **Machine Learning applied to images**
+- 🤝 Open to collaborations and open source projects
 
 <br/>
 
-### 🔬 Iniciação Científica — FAPESP
+### 🔬 Undergraduate Research — FAPESP
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FAPESP-Bolsista%20de%20Inicia%C3%A7%C3%A3o%20Cient%C3%ADfica-0072B5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Bolsista FAPESP" />
-<img src="https://img.shields.io/badge/FATEC%20Pompeia-Sistemas%20Inteligentes-B20000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="FATEC Pompeia" />
+<img src="https://img.shields.io/badge/FAPESP-Undergraduate%20Research%20Fellow-0072B5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="FAPESP Fellow" />
+<img src="https://img.shields.io/badge/FATEC%20Pompeia-Intelligent%20Systems-B20000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="FATEC Pompeia" />
 
 </div>
 
 <br/>
 
-> Atuo como **bolsista de Iniciação Científica da FAPESP**, pesquisando o uso de **inteligência artificial e computação em nuvem aplicadas ao agronegócio**.
+> I work as a **FAPESP undergraduate research fellow**, researching the use of **artificial intelligence and cloud computing applied to agribusiness**.
 
-Frentes da pesquisa:
+Research tracks:
 
-| Frente | O que envolve |
+| Track | What it involves |
 | :--- | :--- |
-| 🛰️ **Visão computacional no campo** | Processamento de imagens agrícolas (drone, satélite e câmera) para análise de cultivos |
-| 🌱 **Agricultura de precisão** | Modelos para identificação de padrões, anomalias e indicadores de saúde das lavouras |
-| ☁️ **Infraestrutura em nuvem** | Treino, versionamento e deploy dos modelos em ambientes cloud escaláveis |
-| 📊 **Dados agrícolas** | Coleta, limpeza e organização de datasets do agronegócio para alimentar os modelos |
-| 🤖 **IA generativa & LLMs** | Uso de modelos de linguagem como camada de interpretação e apoio à decisão no campo |
+| 🛰️ **Computer vision in the field** | Processing agricultural imagery (drone, satellite and camera) to analyze crops |
+| 🌱 **Precision agriculture** | Models to identify patterns, anomalies and crop health indicators |
+| ☁️ **Cloud infrastructure** | Training, versioning and deploying models in scalable cloud environments |
+| 📊 **Agricultural data** | Collecting, cleaning and organizing agribusiness datasets to feed the models |
+| 🤖 **Generative AI & LLMs** | Language models as an interpretation and decision-support layer in the field |
 
 ---
 
-## 🚀 O que estou aprendendo agora
+## 🚀 What I'm learning right now
 
-> Atualmente estou mergulhado em **Data Augmentation** e nas etapas de **pré-processamento e processamento de imagens** para o treinamento de redes neurais aplicadas a uma **LLM**.
+> I'm currently deep into **Data Augmentation** and the **image pre-processing and processing** stages for training neural networks applied to an **LLM**.
 
-Na prática, isso significa estudar:
+In practice, that means studying:
 
-| Área | Foco |
+| Area | Focus |
 | :--- | :--- |
-| 🖼️ **Pré-processamento** | Normalização, redimensionamento, filtragem e limpeza de datasets de imagem |
-| 🔄 **Data Augmentation** | Rotação, flip, crop, ajuste de cor e ruído para ampliar e balancear datasets |
-| 🧠 **Redes Neurais** | Arquiteturas de treinamento, tuning de hiperparâmetros e avaliação de modelos |
-| 🤖 **LLMs** | Pipelines multimodais e integração entre visão computacional e linguagem |
+| 🖼️ **Pre-processing** | Normalization, resizing, filtering and cleaning of image datasets |
+| 🔄 **Data Augmentation** | Rotation, flip, crop, color adjustment and noise to expand and balance datasets |
+| 🧠 **Neural Networks** | Training architectures, hyperparameter tuning and model evaluation |
+| 🤖 **LLMs** | Multimodal pipelines and the integration between computer vision and language |
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark" alt="Linguagens" />
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark" alt="Languages" />
 
 ### Front-end
 <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&amp;theme=dark" alt="Front-end" />
 
-### Back-end &amp; Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&amp;theme=dark" alt="Back-end e Dados" />
+### Back-end &amp; Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&amp;theme=dark" alt="Back-end and Data" />
 
-### DevOps &amp; Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&amp;theme=dark" alt="DevOps e Ferramentas" />
+### DevOps &amp; Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&amp;theme=dark" alt="DevOps and Tools" />
 
-### Cloud &amp; Infraestrutura
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,linux,cloudflare&amp;theme=dark" alt="Cloud e Infraestrutura" />
+### Cloud &amp; Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,linux,cloudflare&amp;theme=dark" alt="Cloud and Infrastructure" />
 
 </div>
 
@@ -128,13 +128,13 @@ Na prática, isso significa estudar:
 
 ---
 
-## 🧠 IA, Visão Computacional & Data Augmentation
+## 🧠 AI, Computer Vision & Data Augmentation
 
-Stack que venho utilizando nos estudos de **pré-processamento de imagens, data augmentation e treinamento de redes neurais**:
+The stack I've been using in my studies on **image pre-processing, data augmentation and neural network training**:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,anaconda&amp;theme=dark" alt="Stack de IA e Visao Computacional" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,anaconda&amp;theme=dark" alt="AI and Computer Vision stack" />
 
 </div>
 
@@ -159,23 +159,23 @@ Stack que venho utilizando nos estudos de **pré-processamento de imagens, data 
 
 <br/>
 
-| Ferramenta | Onde entra no meu pipeline |
+| Tool | Where it fits in my pipeline |
 | :--- | :--- |
-| **OpenCV / Pillow** | Leitura, redimensionamento, conversão de espaço de cor e filtragem das imagens |
-| **NumPy / Pandas** | Manipulação dos tensores de imagem e organização dos metadados do dataset |
-| **Albumentations** | Transformações de data augmentation (flip, rotate, crop, blur, ruído, brilho) |
-| **TensorFlow / Keras** | Construção e treinamento das redes neurais e camadas de augmentation nativas |
-| **PyTorch** | Experimentos com `torchvision.transforms` e treinos customizados |
-| **scikit-learn** | Split de datasets, métricas e avaliação dos modelos |
-| **Matplotlib** | Visualização das amostras aumentadas e das curvas de treinamento |
-| **Jupyter / Anaconda** | Ambiente de experimentação e controle de dependências |
-| **Hugging Face** | Modelos pré-treinados e pipelines multimodais aplicados a LLMs |
+| **OpenCV / Pillow** | Reading, resizing, color space conversion and image filtering |
+| **NumPy / Pandas** | Handling image tensors and organizing dataset metadata |
+| **Albumentations** | Data augmentation transforms (flip, rotate, crop, blur, noise, brightness) |
+| **TensorFlow / Keras** | Building and training neural networks and native augmentation layers |
+| **PyTorch** | Experiments with `torchvision.transforms` and custom training loops |
+| **scikit-learn** | Dataset splitting, metrics and model evaluation |
+| **Matplotlib** | Visualizing augmented samples and training curves |
+| **Jupyter / Anaconda** | Experimentation environment and dependency management |
+| **Hugging Face** | Pre-trained models and multimodal pipelines applied to LLMs |
 
 <br/>
 
-### 🌾 Stack de IA aplicada ao agronegócio
+### 🌾 AI stack applied to agribusiness
 
-Ferramentas que uso na pesquisa de **dados agrícolas e imagens de campo**:
+Tools I use in my research on **agricultural data and field imagery**:
 
 <div align="center">
 
@@ -193,23 +193,23 @@ Ferramentas que uso na pesquisa de **dados agrícolas e imagens de campo**:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=4" alt="Estatisticas do GitHub de Hadryan" />
-<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=4" alt="Linguagens mais usadas" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=5" alt="Hadryan's GitHub stats" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=5" alt="Most used languages" />
 
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=hadryan89&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trofeus do GitHub" />
+<img src="https://github-trophies.vercel.app/?username=hadryan89&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Let's talk?
 
 <div align="center">
 
@@ -217,7 +217,7 @@ Ferramentas que uso na pesquisa de **dados agrícolas e imagens de campo**:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:hadryanfortinis89@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/hadryan89" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
@@ -230,7 +230,7 @@ Ferramentas que uso na pesquisa de **dados agrícolas e imagens de campo**:
 <div align="center">
 
 💼 **LinkedIn:** [hadryan-fortinis](https://www.linkedin.com/in/hadryan-fortinis-9b990538a) <br/>
-📧 **E-mail:** [hadryanfortinis89@gmail.com](mailto:hadryanfortinis89@gmail.com) <br/>
+📧 **Email:** [hadryanfortinis89@gmail.com](mailto:hadryanfortinis89@gmail.com) <br/>
 🐙 **GitHub:** [@hadryan89](https://github.com/hadryan89)
 
 </div>
@@ -239,12 +239,12 @@ Ferramentas que uso na pesquisa de **dados agrícolas e imagens de campo**:
 
 <div align="center">
 
-*"A melhor forma de prever o futuro é construí-lo — uma linha de código por vez."*
+*"The best way to predict the future is to build it — one line of code at a time."*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-grid-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/contrib-grid-light.svg" />
-  <img src="assets/contrib-grid-dark.svg" alt="Grade de contribuicoes" width="100%" />
+  <img src="assets/contrib-grid-dark.svg" alt="Contributions grid" width="100%" />
 </picture>
 
 </div>
