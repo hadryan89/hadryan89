@@ -203,7 +203,7 @@ Tools I use in my research on **agricultural data and field imagery**:
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=hadryan89&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=hadryan89&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10&amp;v=6" alt="GitHub trophies" />
 
 </div>
 
