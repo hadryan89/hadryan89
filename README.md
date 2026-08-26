@@ -197,8 +197,8 @@ Tools I use in my research on **agricultural data and field imagery**:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=5" alt="Hadryan's GitHub stats" />
-<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=5" alt="Most used languages" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=6" alt="Hadryan's GitHub stats" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=6" alt="Most used languages" />
 
 
 <br/><br/>
