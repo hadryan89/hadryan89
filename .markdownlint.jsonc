@@ -1,0 +1,12 @@
+{
+  // Profile README relies on inline HTML (<picture>, <div align>, <img>) for layout
+  "MD033": false,
+  // First line is a centered HTML block, not a Markdown heading
+  "MD041": false,
+  // Long badge URLs and table rows cannot be wrapped
+  "MD013": false,
+  // Section headings reuse emojis and repeated sub-titles
+  "MD024": { "siblings_only": true },
+  // Emphasized tagline at the end is intentional
+  "MD036": false
+}
