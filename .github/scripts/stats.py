@@ -1,8 +1,8 @@
 """Render the profile stats card (assets/stats-dark.svg and assets/stats-light.svg).
 
 Runs daily from .github/workflows/stats.yml. Uses GITHUB_TOKEN, so languages
-and stars come from public repositories; contribution counts include private
-contributions because the profile has them enabled.
+and merged PRs come from public repositories; contribution counts include
+private contributions because the profile has them enabled.
 """
 import datetime as dt
 import json
@@ -27,7 +27,6 @@ query($login: String!) {
     pullRequests(states: MERGED) { totalCount }
     repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
       nodes {
-        stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name color } }
         }
@@ -37,10 +36,20 @@ query($login: String!) {
 }
 """
 
+# Same palette as GitHub's contribution graph (and assets/contrib-grid-*.svg)
 THEMES = {
-    "dark": {"text": "#e6edf3", "muted": "#8b949e", "line": "#30363d", "track": "#161b22"},
-    "light": {"text": "#1f2328", "muted": "#59636e", "line": "#d0d7de", "track": "#eff2f5"},
+    "dark": {
+        "text": "#e6edf3", "muted": "#8b949e", "line": "#30363d", "empty": "#161b22",
+        "levels": ["#0e4429", "#006d32", "#26a641", "#39d353"],
+    },
+    "light": {
+        "text": "#1f2328", "muted": "#59636e", "line": "#d0d7de", "empty": "#ebedf0",
+        "levels": ["#9be9a8", "#40c463", "#30a14e", "#216e39"],
+    },
 }
+
+W, H, PAD = 840, 272, 28
+FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"
 
 
 def fetch():
@@ -55,8 +64,7 @@ def fetch():
     return body["data"]["user"]
 
 
-def streaks(days):
-    counts = [d["contributionCount"] for d in sorted(days, key=lambda d: d["date"])]
+def streaks(counts):
     longest = run = 0
     for c in counts:
         run = run + 1 if c else 0
@@ -72,7 +80,7 @@ def streaks(days):
     return current, longest
 
 
-def languages(repos, top=5):
+def languages(repos, top=6):
     sizes, colors = {}, {}
     for repo in repos:
         for edge in repo["languages"]["edges"]:
@@ -84,44 +92,61 @@ def languages(repos, top=5):
     return [(name, size / total * 100, colors[name]) for name, size in ranked]
 
 
-def fmt(n):
-    return f"{n / 1000:.1f}k".replace(".0k", "k") if n >= 1000 else str(n)
-
-
-def render(stats, langs, t):
-    font = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+def render(metrics, weeks, langs, t):
     out = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" '
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
         f'role="img" aria-label="GitHub stats for {USER}">',
         f"<title>GitHub stats for {USER}</title>",
-        f'<style>text{{font-family:{font};font-variant-numeric:tabular-nums}}'
-        f".v{{font-size:26px;font-weight:600;fill:{t['text']}}}"
-        f".l{{font-size:11px;letter-spacing:.08em;fill:{t['muted']}}}"
-        f".n{{font-size:13px;fill:{t['text']}}}.p{{font-size:13px;fill:{t['muted']}}}</style>",
-        f'<rect x="0.5" y="0.5" width="839" height="189" rx="8" fill="none" stroke="{t["line"]}"/>',
+        f"<style>text{{font-family:{FONT};font-variant-numeric:tabular-nums}}"
+        f".h{{font-size:14px;font-weight:600;fill:{t['text']}}}"
+        f".s{{font-size:12px;fill:{t['muted']}}}"
+        f".v{{font-size:28px;font-weight:600;fill:{t['text']};letter-spacing:-.02em}}"
+        f".u{{font-size:13px;font-weight:400;fill:{t['muted']};letter-spacing:0}}"
+        f".n{{font-size:12px;fill:{t['text']}}}</style>",
+        f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="10" fill="none" stroke="{t["line"]}"/>',
+        f'<text class="h" x="{PAD}" y="40">{USER}</text>',
+        f'<text class="s" x="{W - PAD}" y="40" text-anchor="end">Last 12 months</text>',
     ]
 
-    for i, (label, value) in enumerate(stats):
-        x, y = 32 + (i % 3) * 150, 62 + (i // 3) * 78
-        out.append(f'<text class="v" x="{x}" y="{y}">{value}</text>')
-        out.append(f'<text class="l" x="{x}" y="{y + 22}">{label.upper()}</text>')
+    # Headline numbers
+    col = (W - 2 * PAD) / len(metrics)
+    for i, (label, value, unit) in enumerate(metrics):
+        x = PAD + i * col
+        suffix = f'<tspan class="u" dx="5">{unit}</tspan>' if unit else ""
+        out.append(f'<text class="v" x="{x:.1f}" y="92">{value}{suffix}</text>')
+        out.append(f'<text class="s" x="{x:.1f}" y="114">{label}</text>')
 
-    out.append(f'<line x1="496" y1="28" x2="496" y2="162" stroke="{t["line"]}"/>')
+    out.append(f'<line x1="{PAD}" y1="140" x2="{W - PAD}" y2="140" stroke="{t["line"]}"/>')
 
-    bx, bw = 528, 280
-    out.append(f'<text class="l" x="{bx}" y="40">TOP LANGUAGES</text>')
-    out.append(f'<clipPath id="bar"><rect x="{bx}" y="54" width="{bw}" height="8" rx="4"/></clipPath>')
-    out.append(f'<rect x="{bx}" y="54" width="{bw}" height="8" rx="4" fill="{t["track"]}"/>')
-    offset = bx
+    # Weekly contributions, one column per week
+    cx, cw, top, ch = PAD, 470, 190, 52
+    out.append(f'<text class="s" x="{cx}" y="170">Contributions per week</text>')
+    step = cw / len(weeks)
+    peak = max(weeks) or 1
+    for i, total in enumerate(weeks):
+        x = cx + i * step
+        if total:
+            # sqrt keeps quiet weeks visible next to the busiest one
+            share = (total / peak) ** 0.5
+            h = max(4, ch * share)
+            color = t["levels"][min(3, int(4 * share))]
+        else:
+            h, color = 4, t["empty"]
+        out.append(f'<rect x="{x:.1f}" y="{top + ch - h:.1f}" width="{step - 3:.1f}" height="{h:.1f}" rx="1.5" fill="{color}"/>')
+
+    # Languages
+    lx, lw = 548, W - PAD - 548
+    out.append(f'<text class="s" x="{lx}" y="170">Top languages</text>')
+    out.append(f'<clipPath id="bar"><rect x="{lx}" y="186" width="{lw}" height="8" rx="4"/></clipPath>')
+    offset = lx
     for _, pct, color in langs:
-        w = bw * pct / 100
-        out.append(f'<rect clip-path="url(#bar)" x="{offset:.2f}" y="54" width="{w:.2f}" height="8" fill="{color}"/>')
+        w = lw * pct / 100
+        out.append(f'<rect clip-path="url(#bar)" x="{offset:.2f}" y="186" width="{w + .5:.2f}" height="8" fill="{color}"/>')
         offset += w
     for i, (name, pct, color) in enumerate(langs):
-        y = 88 + i * 19
-        out.append(f'<rect x="{bx}" y="{y - 9}" width="10" height="10" rx="2" fill="{color}"/>')
-        out.append(f'<text class="n" x="{bx + 18}" y="{y}">{name}</text>')
-        out.append(f'<text class="p" x="{bx + bw}" y="{y}" text-anchor="end">{pct:.1f}%</text>')
+        x, y = lx + (i % 2) * (lw / 2), 220 + (i // 2) * 20
+        out.append(f'<circle cx="{x + 4}" cy="{y - 4}" r="4" fill="{color}"/>')
+        out.append(f'<text class="n" x="{x + 14}" y="{y}">{name} <tspan class="s">{pct:.1f}%</tspan></text>')
 
     out.append("</svg>")
     return "\n".join(out) + "\n"
@@ -129,22 +154,22 @@ def render(stats, langs, t):
 
 def main():
     user = fetch()
-    cc = user["contributionsCollection"]
-    days = [d for w in cc["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
-    current, longest = streaks(days)
-    repos = user["repositories"]["nodes"]
-    stats = [
-        ("Contributions", fmt(cc["contributionCalendar"]["totalContributions"])),
-        ("Active days", fmt(sum(1 for d in days if d["contributionCount"]))),
-        ("Merged PRs", fmt(user["pullRequests"]["totalCount"])),
-        ("Current streak", f"{current} {'day' if current == 1 else 'days'}"),
-        ("Longest streak", f"{longest} {'day' if longest == 1 else 'days'}"),
-        ("Stars", fmt(sum(r["stargazerCount"] for r in repos))),
+    cal = user["contributionsCollection"]["contributionCalendar"]
+    week_days = [w["contributionDays"] for w in cal["weeks"]]
+    counts = [d["contributionCount"] for days in week_days for d in sorted(days, key=lambda d: d["date"])]
+    current, longest = streaks(counts)
+    metrics = [
+        ("Contributions", f"{cal['totalContributions']:,}", ""),
+        ("Active days", str(sum(1 for c in counts if c)), ""),
+        ("Merged pull requests", str(user["pullRequests"]["totalCount"]), ""),
+        ("Current streak", str(current), "day" if current == 1 else "days"),
+        ("Longest streak", str(longest), "day" if longest == 1 else "days"),
     ]
-    langs = languages(repos)
+    weeks = [sum(d["contributionCount"] for d in days) for days in week_days]
+    langs = languages(user["repositories"]["nodes"])
     for name, theme in THEMES.items():
-        (ASSETS / f"stats-{name}.svg").write_text(render(stats, langs, theme), encoding="utf-8", newline="\n")
-    print(f"updated {dt.date.today()}: {stats}")
+        (ASSETS / f"stats-{name}.svg").write_text(render(metrics, weeks, langs, theme), encoding="utf-8", newline="\n")
+    print(f"updated {dt.date.today()}: {metrics}")
 
 
 if __name__ == "__main__":
