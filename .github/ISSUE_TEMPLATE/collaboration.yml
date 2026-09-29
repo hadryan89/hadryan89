@@ -1,0 +1,29 @@
+name: Collaboration proposal
+description: Propose a project, research idea or open source collaboration
+title: "[Collab]: "
+labels: [collaboration]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What do you have in mind?
+      description: Project, research topic or repository you'd like to work on together.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - AI / Computer Vision
+        - Agribusiness data
+        - Full Stack
+        - Cloud / DevOps
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: How can I reach you?
+      description: LinkedIn, email or GitHub handle.
