@@ -1,0 +1,6 @@
+# Normalize line endings so Windows checkouts don't produce CRLF diffs
+* text=auto eol=lf
+
+*.md  text diff=markdown
+*.svg text
+*.yml text
