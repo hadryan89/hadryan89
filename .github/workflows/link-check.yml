@@ -1,0 +1,27 @@
+name: Link check
+
+on:
+  push:
+    branches: [main]
+    paths: ["README.md"]
+  pull_request:
+    paths: ["README.md"]
+  schedule:
+    - cron: "0 9 * * 1" # every Monday, catches badges/services that went offline
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # LinkedIn blocks bots (status 999); dynamic cards may rate limit
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept 200,429,999
+            --exclude linkedin\.com
+            README.md
+          fail: true
