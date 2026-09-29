@@ -32,20 +32,13 @@ I'm a **FAPESP undergraduate research fellow**, researching artificial intellige
 
 ## Stack
 
-| Area | Tools |
-| :--- | :--- |
-| Languages | JavaScript, TypeScript, Python, SQL |
-| Front-end | Angular, React, Tailwind CSS, Bootstrap |
-| Back-end and data | Node.js, Express, PostgreSQL, MySQL, MongoDB, Supabase |
-| AI and computer vision | PyTorch, TensorFlow, OpenCV, scikit-learn, YOLO |
-| LLMs | Hugging Face Transformers, PEFT (LoRA / QLoRA), TRL, bitsandbytes, LangChain, Ollama |
-| Cloud and DevOps | AWS, Google Cloud, Azure, Docker, Kubernetes, Linux |
-
 <div align="center">
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,angular,react,nodejs,postgres,mongodb,docker,gcp,aws,pytorch,tensorflow,opencv&amp;perline=14" alt="TypeScript, JavaScript, Python, Angular, React, Node.js, PostgreSQL, MongoDB, Docker, Google Cloud, AWS, PyTorch, TensorFlow, OpenCV" />
+<img src="assets/stack-web.svg" alt="JavaScript, TypeScript, Python, Angular, React, Tailwind CSS, Bootstrap" /><br/>
+<img src="assets/stack-backend.svg" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Supabase" /><br/>
+<img src="assets/stack-ai.svg" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Anaconda, Ultralytics YOLO" /><br/>
+<img src="assets/stack-llm.svg" alt="Hugging Face Transformers, LangChain, Ollama, PEFT (LoRA / QLoRA), TRL" /><br/>
+<img src="assets/stack-cloud.svg" alt="AWS, Google Cloud, Azure, Docker, Kubernetes, Linux" />
 
 </div>
 
