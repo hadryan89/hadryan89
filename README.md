@@ -37,7 +37,8 @@ I'm a **FAPESP undergraduate research fellow**, researching artificial intellige
 | Languages | JavaScript, TypeScript, Python, SQL |
 | Front-end | Angular, React, Tailwind CSS, Bootstrap |
 | Back-end and data | Node.js, Express, PostgreSQL, MySQL, MongoDB, Supabase |
-| AI and computer vision | PyTorch, TensorFlow, OpenCV, scikit-learn, Hugging Face, YOLO |
+| AI and computer vision | PyTorch, TensorFlow, OpenCV, scikit-learn, YOLO |
+| LLMs | Hugging Face Transformers, PEFT (LoRA / QLoRA), TRL, bitsandbytes, LangChain, Ollama |
 | Cloud and DevOps | AWS, Google Cloud, Azure, Docker, Kubernetes, Linux |
 
 <div align="center">
