@@ -79,18 +79,23 @@ In practice, that means studying:
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark" alt="Languages" />
 
 ### Front-end
+
 <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&amp;theme=dark" alt="Front-end" />
 
 ### Back-end &amp; Data
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&amp;theme=dark" alt="Back-end and Data" />
 
 ### DevOps &amp; Tools
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&amp;theme=dark" alt="DevOps and Tools" />
 
 ### Cloud &amp; Infrastructure
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,linux,cloudflare&amp;theme=dark" alt="Cloud and Infrastructure" />
 
 </div>
@@ -199,7 +204,6 @@ Tools I use in my research on **agricultural data and field imagery**:
 
 <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260826" alt="Hadryan's GitHub stats" />
 <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260826" alt="Most used languages" />
-
 
 <br/><br/>
 
