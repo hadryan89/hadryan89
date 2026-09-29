@@ -6,7 +6,7 @@
 <text class="l" x="32" y="84">CONTRIBUTIONS</text>
 <text class="v" x="182" y="62">87</text>
 <text class="l" x="182" y="84">ACTIVE DAYS</text>
-<text class="v" x="332" y="62">20</text>
+<text class="v" x="332" y="62">16</text>
 <text class="l" x="332" y="84">MERGED PRS</text>
 <text class="v" x="32" y="140">3 days</text>
 <text class="l" x="32" y="162">CURRENT STREAK</text>
@@ -18,24 +18,24 @@
 <text class="l" x="528" y="40">TOP LANGUAGES</text>
 <clipPath id="bar"><rect x="528" y="54" width="280" height="8" rx="4"/></clipPath>
 <rect x="528" y="54" width="280" height="8" rx="4" fill="#eff2f5"/>
-<rect clip-path="url(#bar)" x="528.00" y="54" width="170.46" height="8" fill="#3572A5"/>
-<rect clip-path="url(#bar)" x="698.46" y="54" width="93.18" height="8" fill="#3178c6"/>
-<rect clip-path="url(#bar)" x="791.64" y="54" width="5.01" height="8" fill="#f1e05a"/>
-<rect clip-path="url(#bar)" x="796.66" y="54" width="3.98" height="8" fill="#663399"/>
-<rect clip-path="url(#bar)" x="800.63" y="54" width="2.97" height="8" fill="#c6538c"/>
+<rect clip-path="url(#bar)" x="528.00" y="54" width="234.25" height="8" fill="#3572A5"/>
+<rect clip-path="url(#bar)" x="762.25" y="54" width="44.55" height="8" fill="#3178c6"/>
+<rect clip-path="url(#bar)" x="806.80" y="54" width="0.48" height="8" fill="#663399"/>
+<rect clip-path="url(#bar)" x="807.29" y="54" width="0.39" height="8" fill="#e34c26"/>
+<rect clip-path="url(#bar)" x="807.68" y="54" width="0.32" height="8" fill="#f1e05a"/>
 <rect x="528" y="79" width="10" height="10" rx="2" fill="#3572A5"/>
 <text class="n" x="546" y="88">Python</text>
-<text class="p" x="808" y="88" text-anchor="end">60.9%</text>
+<text class="p" x="808" y="88" text-anchor="end">83.7%</text>
 <rect x="528" y="98" width="10" height="10" rx="2" fill="#3178c6"/>
 <text class="n" x="546" y="107">TypeScript</text>
-<text class="p" x="808" y="107" text-anchor="end">33.3%</text>
-<rect x="528" y="117" width="10" height="10" rx="2" fill="#f1e05a"/>
-<text class="n" x="546" y="126">JavaScript</text>
-<text class="p" x="808" y="126" text-anchor="end">1.8%</text>
-<rect x="528" y="136" width="10" height="10" rx="2" fill="#663399"/>
-<text class="n" x="546" y="145">CSS</text>
-<text class="p" x="808" y="145" text-anchor="end">1.4%</text>
-<rect x="528" y="155" width="10" height="10" rx="2" fill="#c6538c"/>
-<text class="n" x="546" y="164">SCSS</text>
-<text class="p" x="808" y="164" text-anchor="end">1.1%</text>
+<text class="p" x="808" y="107" text-anchor="end">15.9%</text>
+<rect x="528" y="117" width="10" height="10" rx="2" fill="#663399"/>
+<text class="n" x="546" y="126">CSS</text>
+<text class="p" x="808" y="126" text-anchor="end">0.2%</text>
+<rect x="528" y="136" width="10" height="10" rx="2" fill="#e34c26"/>
+<text class="n" x="546" y="145">HTML</text>
+<text class="p" x="808" y="145" text-anchor="end">0.1%</text>
+<rect x="528" y="155" width="10" height="10" rx="2" fill="#f1e05a"/>
+<text class="n" x="546" y="164">JavaScript</text>
+<text class="p" x="808" y="164" text-anchor="end">0.1%</text>
 </svg>
