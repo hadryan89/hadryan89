@@ -4,11 +4,11 @@
 <rect x=".5" y=".5" width="839" height="271" rx="10" fill="none" stroke="#d0d7de"/>
 <text class="h" x="28" y="40">hadryan89</text>
 <text class="s" x="812" y="40" text-anchor="end">Last 12 months</text>
-<text class="v" x="28.0" y="92">1,437</text>
+<text class="v" x="28.0" y="92">1,438</text>
 <text class="s" x="28.0" y="114">Contributions</text>
 <text class="v" x="184.8" y="92">87</text>
 <text class="s" x="184.8" y="114">Active days</text>
-<text class="v" x="341.6" y="92">21</text>
+<text class="v" x="341.6" y="92">17</text>
 <text class="s" x="341.6" y="114">Merged pull requests</text>
 <text class="v" x="498.4" y="92">3<tspan class="u" dx="5">days</tspan></text>
 <text class="s" x="498.4" y="114">Current streak</text>
@@ -68,25 +68,22 @@
 <rect x="462.5" y="203.3" width="5.9" height="38.7" rx="1.5" fill="#30a14e"/>
 <rect x="471.4" y="230.1" width="5.9" height="11.9" rx="1.5" fill="#9be9a8"/>
 <rect x="480.3" y="206.6" width="5.9" height="35.4" rx="1.5" fill="#30a14e"/>
-<rect x="489.1" y="223.8" width="5.9" height="18.2" rx="1.5" fill="#40c463"/>
+<rect x="489.1" y="223.5" width="5.9" height="18.5" rx="1.5" fill="#40c463"/>
 <text class="s" x="548" y="170">Top languages</text>
 <clipPath id="bar"><rect x="548" y="186" width="264" height="8" rx="4"/></clipPath>
-<rect clip-path="url(#bar)" x="548.00" y="186" width="161.22" height="8" fill="#3572A5"/>
-<rect clip-path="url(#bar)" x="708.72" y="186" width="88.36" height="8" fill="#3178c6"/>
-<rect clip-path="url(#bar)" x="796.58" y="186" width="5.23" height="8" fill="#f1e05a"/>
-<rect clip-path="url(#bar)" x="801.30" y="186" width="4.25" height="8" fill="#663399"/>
-<rect clip-path="url(#bar)" x="805.06" y="186" width="3.30" height="8" fill="#c6538c"/>
-<rect clip-path="url(#bar)" x="807.86" y="186" width="2.93" height="8" fill="#e34c26"/>
+<rect clip-path="url(#bar)" x="548.00" y="186" width="221.37" height="8" fill="#3572A5"/>
+<rect clip-path="url(#bar)" x="768.87" y="186" width="42.50" height="8" fill="#3178c6"/>
+<rect clip-path="url(#bar)" x="810.87" y="186" width="0.96" height="8" fill="#663399"/>
+<rect clip-path="url(#bar)" x="811.33" y="186" width="0.87" height="8" fill="#e34c26"/>
+<rect clip-path="url(#bar)" x="811.70" y="186" width="0.80" height="8" fill="#f1e05a"/>
 <circle cx="552.0" cy="216" r="4" fill="#3572A5"/>
-<text class="n" x="562.0" y="220">Python <tspan class="s">60.9%</tspan></text>
+<text class="n" x="562.0" y="220">Python <tspan class="s">83.7%</tspan></text>
 <circle cx="684.0" cy="216" r="4" fill="#3178c6"/>
-<text class="n" x="694.0" y="220">TypeScript <tspan class="s">33.3%</tspan></text>
-<circle cx="552.0" cy="236" r="4" fill="#f1e05a"/>
-<text class="n" x="562.0" y="240">JavaScript <tspan class="s">1.8%</tspan></text>
-<circle cx="684.0" cy="236" r="4" fill="#663399"/>
-<text class="n" x="694.0" y="240">CSS <tspan class="s">1.4%</tspan></text>
-<circle cx="552.0" cy="256" r="4" fill="#c6538c"/>
-<text class="n" x="562.0" y="260">SCSS <tspan class="s">1.1%</tspan></text>
-<circle cx="684.0" cy="256" r="4" fill="#e34c26"/>
-<text class="n" x="694.0" y="260">HTML <tspan class="s">0.9%</tspan></text>
+<text class="n" x="694.0" y="220">TypeScript <tspan class="s">15.9%</tspan></text>
+<circle cx="552.0" cy="236" r="4" fill="#663399"/>
+<text class="n" x="562.0" y="240">CSS <tspan class="s">0.2%</tspan></text>
+<circle cx="684.0" cy="236" r="4" fill="#e34c26"/>
+<text class="n" x="694.0" y="240">HTML <tspan class="s">0.1%</tspan></text>
+<circle cx="552.0" cy="256" r="4" fill="#f1e05a"/>
+<text class="n" x="562.0" y="260">JavaScript <tspan class="s">0.1%</tspan></text>
 </svg>
