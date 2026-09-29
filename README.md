@@ -44,20 +44,11 @@ I'm a **FAPESP undergraduate research fellow**, researching artificial intellige
 
 ## Stats
 
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=39d353&amp;ring_color=39d353&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260929" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1f2328&amp;text_color=59636e&amp;icon_color=1a7f37&amp;ring_color=1a7f37&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260929" />
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=hadryan89&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=39d353&amp;ring_color=39d353&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260929" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img src="assets/stats-dark.svg" alt="GitHub stats: contributions, active days, merged pull requests, streaks, stars and top languages" width="100%" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=e6edf3&amp;text_color=8b949e&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260929" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1f2328&amp;text_color=59636e&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260929" />
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hadryan89&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=e6edf3&amp;text_color=8b949e&amp;locale=en&amp;disable_animations=true&amp;cache_seconds=1800&amp;v=20260929" alt="Most used languages" />
-</picture>
-
-</div>
 
 ## Contact
 
