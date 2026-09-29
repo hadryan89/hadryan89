@@ -22,6 +22,7 @@ jobs:
       - run: python .github/scripts/stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
       - name: Commit updated card
         run: |
           git diff --quiet assets/ && exit 0

@@ -11,7 +11,8 @@ import pathlib
 import urllib.request
 
 USER = os.environ.get("STATS_USER", "hadryan89")
-TOKEN = os.environ["GITHUB_TOKEN"]
+# STATS_TOKEN (optional PAT) also counts private repositories in languages and PRs
+TOKEN = os.environ.get("STATS_TOKEN") or os.environ["GITHUB_TOKEN"]
 ASSETS = pathlib.Path(__file__).resolve().parents[2] / "assets"
 
 QUERY = """
