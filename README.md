@@ -14,11 +14,21 @@
   Full Stack Developer &nbsp;·&nbsp; Exploring Computer Vision, LLMs and Cloud
 </p>
 
+<p>
+  <a href="#about-me">About</a> &nbsp;·&nbsp;
+  <a href="#learning">Learning</a> &nbsp;·&nbsp;
+  <a href="#tech">Tech</a> &nbsp;·&nbsp;
+  <a href="#stats">Stats</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=hadryan89&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat-square" alt="profile views counter" />
 
 </div>
 
 ---
+
+<a id="about-me"></a>
 
 ## 👋 About me
 
@@ -59,6 +69,8 @@ Research tracks:
 
 ---
 
+<a id="learning"></a>
+
 ## 🚀 What I'm learning right now
 
 > I'm currently deep into **Data Augmentation** and the **image pre-processing and processing** stages for training neural networks applied to an **LLM**.
@@ -73,6 +85,8 @@ In practice, that means studying:
 | 🤖 **LLMs** | Multimodal pipelines and the integration between computer vision and language |
 
 ---
+
+<a id="tech"></a>
 
 ## 🛠️ Technologies & Tools
 
@@ -198,6 +212,8 @@ Tools I use in my research on **agricultural data and field imagery**:
 
 ---
 
+<a id="stats"></a>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -212,6 +228,8 @@ Tools I use in my research on **agricultural data and field imagery**:
 </div>
 
 ---
+
+<a id="contact"></a>
 
 ## 📫 Let's talk?
 
