@@ -126,8 +126,10 @@ def render(metrics, weeks, langs, t):
     for i, total in enumerate(weeks):
         x = cx + i * step
         if total:
-            h = max(4, ch * total / peak)
-            color = t["levels"][min(3, int(4 * total / (peak + 1)))]
+            # sqrt keeps quiet weeks visible next to the busiest one
+            share = (total / peak) ** 0.5
+            h = max(4, ch * share)
+            color = t["levels"][min(3, int(4 * share))]
         else:
             h, color = 4, t["empty"]
         out.append(f'<rect x="{x:.1f}" y="{top + ch - h:.1f}" width="{step - 3:.1f}" height="{h:.1f}" rx="1.5" fill="{color}"/>')
