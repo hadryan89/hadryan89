@@ -1,0 +1,17 @@
+name: Validate SVG assets
+
+on:
+  push:
+    branches: [main]
+    paths: ["assets/**.svg"]
+  pull_request:
+    paths: ["assets/**.svg"]
+
+jobs:
+  xmllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y --no-install-recommends libxml2-utils
+      # A malformed SVG renders as a broken image on the profile
+      - run: xmllint --noout assets/*.svg
