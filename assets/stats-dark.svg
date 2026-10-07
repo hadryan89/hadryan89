@@ -4,13 +4,13 @@
 <rect x=".5" y=".5" width="839" height="271" rx="10" fill="none" stroke="#30363d"/>
 <text class="h" x="28" y="40">hadryan89</text>
 <text class="s" x="812" y="40" text-anchor="end">Last 12 months</text>
-<text class="v" x="28.0" y="92">1,464</text>
+<text class="v" x="28.0" y="92">1,484</text>
 <text class="s" x="28.0" y="114">Contributions</text>
-<text class="v" x="184.8" y="92">89</text>
+<text class="v" x="184.8" y="92">90</text>
 <text class="s" x="184.8" y="114">Active days</text>
 <text class="v" x="341.6" y="92">17</text>
 <text class="s" x="341.6" y="114">Merged pull requests</text>
-<text class="v" x="498.4" y="92">1<tspan class="u" dx="5">day</tspan></text>
+<text class="v" x="498.4" y="92">2<tspan class="u" dx="5">days</tspan></text>
 <text class="s" x="498.4" y="114">Current streak</text>
 <text class="v" x="655.2" y="92">5<tspan class="u" dx="5">days</tspan></text>
 <text class="s" x="655.2" y="114">Longest streak</text>
@@ -67,8 +67,8 @@
 <rect x="453.7" y="203.3" width="5.9" height="38.7" rx="1.5" fill="#26a641"/>
 <rect x="462.5" y="230.1" width="5.9" height="11.9" rx="1.5" fill="#0e4429"/>
 <rect x="471.4" y="206.6" width="5.9" height="35.4" rx="1.5" fill="#26a641"/>
-<rect x="480.3" y="217.2" width="5.9" height="24.8" rx="1.5" fill="#006d32"/>
-<rect x="489.1" y="236.0" width="5.9" height="6.0" rx="1.5" fill="#0e4429"/>
+<rect x="480.3" y="213.3" width="5.9" height="28.7" rx="1.5" fill="#26a641"/>
+<rect x="489.1" y="234.3" width="5.9" height="7.7" rx="1.5" fill="#0e4429"/>
 <text class="s" x="548" y="170">Top languages</text>
 <clipPath id="bar"><rect x="548" y="186" width="264" height="8" rx="4"/></clipPath>
 <rect clip-path="url(#bar)" x="548.00" y="186" width="226.00" height="8" fill="#3572A5"/>
