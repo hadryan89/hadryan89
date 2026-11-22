@@ -17,8 +17,8 @@
 <line x1="28" y1="140" x2="812" y2="140" stroke="#d0d7de"/>
 <text class="s" x="28" y="170">Contributions per week</text>
 <rect x="28.0" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="36.9" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="45.7" y="228.2" width="5.9" height="13.8" rx="1.5" fill="#40c463"/>
+<rect x="36.9" y="228.2" width="5.9" height="13.8" rx="1.5" fill="#40c463"/>
+<rect x="45.7" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="54.6" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="63.5" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="72.3" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
@@ -31,8 +31,8 @@
 <rect x="134.4" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="143.3" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="152.2" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="161.0" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="169.9" y="223.2" width="5.9" height="18.8" rx="1.5" fill="#40c463"/>
+<rect x="161.0" y="223.2" width="5.9" height="18.8" rx="1.5" fill="#40c463"/>
+<rect x="169.9" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="178.8" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="187.6" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="196.5" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
@@ -53,22 +53,22 @@
 <rect x="329.5" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="338.4" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="347.2" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="356.1" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="365.0" y="223.9" width="5.9" height="18.1" rx="1.5" fill="#40c463"/>
-<rect x="373.8" y="190.0" width="5.9" height="52.0" rx="1.5" fill="#216e39"/>
-<rect x="382.7" y="230.3" width="5.9" height="11.7" rx="1.5" fill="#9be9a8"/>
+<rect x="356.1" y="223.9" width="5.9" height="18.1" rx="1.5" fill="#40c463"/>
+<rect x="365.0" y="190.0" width="5.9" height="52.0" rx="1.5" fill="#216e39"/>
+<rect x="373.8" y="230.3" width="5.9" height="11.7" rx="1.5" fill="#9be9a8"/>
+<rect x="382.7" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="391.6" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="400.5" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="409.3" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="418.2" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="427.1" y="218.1" width="5.9" height="23.9" rx="1.5" fill="#40c463"/>
-<rect x="435.9" y="232.9" width="5.9" height="9.1" rx="1.5" fill="#9be9a8"/>
+<rect x="418.2" y="218.1" width="5.9" height="23.9" rx="1.5" fill="#40c463"/>
+<rect x="427.1" y="232.9" width="5.9" height="9.1" rx="1.5" fill="#9be9a8"/>
+<rect x="435.9" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="444.8" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="453.7" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <rect x="462.5" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="471.4" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
-<rect x="480.3" y="228.2" width="5.9" height="13.8" rx="1.5" fill="#40c463"/>
-<rect x="489.1" y="234.6" width="5.9" height="7.4" rx="1.5" fill="#9be9a8"/>
+<rect x="471.4" y="228.2" width="5.9" height="13.8" rx="1.5" fill="#40c463"/>
+<rect x="480.3" y="234.6" width="5.9" height="7.4" rx="1.5" fill="#9be9a8"/>
+<rect x="489.1" y="238.0" width="5.9" height="4.0" rx="1.5" fill="#ebedf0"/>
 <text class="s" x="548" y="170">Top languages</text>
 <clipPath id="bar"><rect x="548" y="186" width="264" height="8" rx="4"/></clipPath>
 <rect clip-path="url(#bar)" x="548.00" y="186" width="226.00" height="8" fill="#3572A5"/>
